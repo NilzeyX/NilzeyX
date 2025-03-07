@@ -49,7 +49,10 @@ By focusing on these **core principles**, I can quickly adapt to different tech 
 - **Postman & Thunder Client** – API testing and debugging for backend services.  
 - **ESLint & Prettier** – Enforcing code quality and consistency across projects.  
 
-## [🔍 My Portfolio](https://www.iandesignwork.com/welcome)
+## [🔍 My Portfolio](https://www.iandesignwork.com/welcome) <- Click the links to see each one!
+
+- **Everflame Calendar** - Simple App, A very design heavy app with a clean dashboard, simple analytics, API intergrations and user CRUD.
+- **Venstar Website** - An enterprise level company, polished the site, frontend changes, created user interactions, interal/local API calls, custom JS functions.
 
 ## 🎯 Development Philosophy  
 
