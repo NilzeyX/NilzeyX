@@ -35,7 +35,7 @@ Many developers rely on high-level tools that simplify programming, but I focus 
 - **Postman & Thunder Client** – API testing and debugging for backend services.  
 - **ESLint & Prettier** – Enforcing code quality and consistency across projects.  
 
-## [🔍 My Portfolio](https://www.iandesignwork.com/welcome) <- Click the link to see more!
+## [🔍 My Agencies Portfolio](https://www.iandesignwork.com/welcome) <- Click the link to see more!
 
 - **Everflame Calendar** – A clean, design-focused calendar app featuring a dashboard, simple analytics, and full **CRUD functionality** for users. Integrated external **APIs** and built with **SwiftUI (iOS)**, **Node.js (backend)**, and **PostgreSQL** for data management.  
 - **Venstar Website** – Enhanced the frontend for an enterprise-level company, implementing **custom JavaScript functions**, refining **UI/UX**, and optimizing **internal API calls** for better performance. Built with **Next.js, TypeScript, and AWS** for backend interactions.  
